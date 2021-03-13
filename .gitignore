@@ -6,3 +6,4 @@ __pycache__
 geckodriver.exe
 /static
 .env
+functional_tests/screendumps
